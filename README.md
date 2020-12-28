@@ -1,4 +1,3 @@
 # SINoALICE Stuff
-Shitty stuff I code for my own usage. Might be useful to someone.  
-
+Shitty stuff I code **for fun**. May be useful to someone.  
 Discord: shirome#0001.
