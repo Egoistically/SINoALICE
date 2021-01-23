@@ -1,0 +1,488 @@
+[
+    {
+        "name": "Goats",
+        "wins": 6,
+        "losses": 0,
+        "lifeforce": 24191725
+    },
+    {
+        "name": "Luna",
+        "wins": 5,
+        "losses": 1,
+        "lifeforce": 21299610
+    },
+    {
+        "name": "Nazarick",
+        "wins": 5,
+        "losses": 1,
+        "lifeforce": 15151835
+    },
+    {
+        "name": "[_]",
+        "wins": 4,
+        "losses": 2,
+        "lifeforce": 14656214
+    },
+    {
+        "name": "~Epiphany~",
+        "wins": 5,
+        "losses": 1,
+        "lifeforce": 13642059
+    },
+    {
+        "name": "VanitaS",
+        "wins": 5,
+        "losses": 1,
+        "lifeforce": 13555350
+    },
+    {
+        "name": "Destiny",
+        "wins": 4,
+        "losses": 2,
+        "lifeforce": 13500165
+    },
+    {
+        "name": "ᴀsᴄᴇɴsɪᴏɴ",
+        "wins": 4,
+        "losses": 2,
+        "lifeforce": 13163556
+    },
+    {
+        "name": "AlioRegnum",
+        "wins": 4,
+        "losses": 2,
+        "lifeforce": 10931668
+    },
+    {
+        "name": "Oldworld",
+        "wins": 4,
+        "losses": 2,
+        "lifeforce": 10712625
+    },
+    {
+        "name": "Rice",
+        "wins": 2,
+        "losses": 4,
+        "lifeforce": 10569068
+    },
+    {
+        "name": "Imperium",
+        "wins": 4,
+        "losses": 2,
+        "lifeforce": 10405076
+    },
+    {
+        "name": "Absolution",
+        "wins": 4,
+        "losses": 2,
+        "lifeforce": 10338459
+    },
+    {
+        "name": "ZaWarudo",
+        "wins": 3,
+        "losses": 3,
+        "lifeforce": 9856258
+    },
+    {
+        "name": "Yamete_Kudasai!",
+        "wins": 5,
+        "losses": 1,
+        "lifeforce": 9803019
+    },
+    {
+        "name": "OrberLords",
+        "wins": 3,
+        "losses": 3,
+        "lifeforce": 9590460
+    },
+    {
+        "name": "Intoners",
+        "wins": 3,
+        "losses": 3,
+        "lifeforce": 9544886
+    },
+    {
+        "name": "Chaldea",
+        "wins": 3,
+        "losses": 3,
+        "lifeforce": 9523495
+    },
+    {
+        "name": "Intoners",
+        "wins": 4,
+        "losses": 2,
+        "lifeforce": 9475529
+    },
+    {
+        "name": "Libra",
+        "wins": 4,
+        "losses": 2,
+        "lifeforce": 9274464
+    },
+    {
+        "name": "SINoBEARS",
+        "wins": 3,
+        "losses": 3,
+        "lifeforce": 9156289
+    },
+    {
+        "name": "VanaFreya",
+        "wins": 3,
+        "losses": 3,
+        "lifeforce": 9024769
+    },
+    {
+        "name": "Mizarikurabu",
+        "wins": 3,
+        "losses": 3,
+        "lifeforce": 8967372
+    },
+    {
+        "name": "Abandoned",
+        "wins": 3,
+        "losses": 3,
+        "lifeforce": 8953396
+    },
+    {
+        "name": "Sanctum",
+        "wins": 4,
+        "losses": 2,
+        "lifeforce": 8928691
+    },
+    {
+        "name": "/pantsu/",
+        "wins": 4,
+        "losses": 2,
+        "lifeforce": 8904831
+    },
+    {
+        "name": "CULToSUNNY",
+        "wins": 3,
+        "losses": 3,
+        "lifeforce": 8785264
+    },
+    {
+        "name": "Azur",
+        "wins": 3,
+        "losses": 3,
+        "lifeforce": 8757065
+    },
+    {
+        "name": "ChaldeaS",
+        "wins": 3,
+        "losses": 3,
+        "lifeforce": 8229827
+    },
+    {
+        "name": "KuroiUta",
+        "wins": 3,
+        "losses": 3,
+        "lifeforce": 8107722
+    },
+    {
+        "name": "NoLuck",
+        "wins": 4,
+        "losses": 2,
+        "lifeforce": 8045484
+    },
+    {
+        "name": "DeathBy7",
+        "wins": 4,
+        "losses": 2,
+        "lifeforce": 8040252
+    },
+    {
+        "name": "Beastars",
+        "wins": 3,
+        "losses": 3,
+        "lifeforce": 8019230
+    },
+    {
+        "name": "Genesis",
+        "wins": 3,
+        "losses": 3,
+        "lifeforce": 7829575
+    },
+    {
+        "name": "Coup-D'état",
+        "wins": 3,
+        "losses": 3,
+        "lifeforce": 7827722
+    },
+    {
+        "name": "Gestalt",
+        "wins": 3,
+        "losses": 3,
+        "lifeforce": 7388865
+    },
+    {
+        "name": "Avalon",
+        "wins": 3,
+        "losses": 3,
+        "lifeforce": 7359945
+    },
+    {
+        "name": "Ravana",
+        "wins": 3,
+        "losses": 3,
+        "lifeforce": 7303401
+    },
+    {
+        "name": "Moon",
+        "wins": 3,
+        "losses": 3,
+        "lifeforce": 7210551
+    },
+    {
+        "name": "RedQueen",
+        "wins": 3,
+        "losses": 3,
+        "lifeforce": 6869330
+    },
+    {
+        "name": "Dingusi",
+        "wins": 3,
+        "losses": 3,
+        "lifeforce": 6783947
+    },
+    {
+        "name": "Moonlight",
+        "wins": 3,
+        "losses": 3,
+        "lifeforce": 6764651
+    },
+    {
+        "name": "Chaldea",
+        "wins": 3,
+        "losses": 3,
+        "lifeforce": 6650787
+    },
+    {
+        "name": "KurUsagi",
+        "wins": 3,
+        "losses": 3,
+        "lifeforce": 6602149
+    },
+    {
+        "name": "Fate",
+        "wins": 2,
+        "losses": 4,
+        "lifeforce": 6407997
+    },
+    {
+        "name": "Nomlings",
+        "wins": 3,
+        "losses": 3,
+        "lifeforce": 6252045
+    },
+    {
+        "name": "NTHRWRLD",
+        "wins": 2,
+        "losses": 4,
+        "lifeforce": 6017563
+    },
+    {
+        "name": "Amaurot",
+        "wins": 3,
+        "losses": 3,
+        "lifeforce": 5961404
+    },
+    {
+        "name": "Lunamary",
+        "wins": 3,
+        "losses": 3,
+        "lifeforce": 5933174
+    },
+    {
+        "name": "BadMojo",
+        "wins": 3,
+        "losses": 3,
+        "lifeforce": 5774449
+    },
+    {
+        "name": "BlueMoon",
+        "wins": 3,
+        "losses": 3,
+        "lifeforce": 5713139
+    },
+    {
+        "name": "анитайп",
+        "wins": 1,
+        "losses": 5,
+        "lifeforce": 5403791
+    },
+    {
+        "name": "YoRHa",
+        "wins": 3,
+        "losses": 3,
+        "lifeforce": 5401470
+    },
+    {
+        "name": "LoveLive",
+        "wins": 3,
+        "losses": 3,
+        "lifeforce": 5377775
+    },
+    {
+        "name": "WinterWonderland",
+        "wins": 3,
+        "losses": 3,
+        "lifeforce": 5375782
+    },
+    {
+        "name": "さつじん",
+        "wins": 3,
+        "losses": 3,
+        "lifeforce": 5351616
+    },
+    {
+        "name": "Catbros.",
+        "wins": 3,
+        "losses": 3,
+        "lifeforce": 5170306
+    },
+    {
+        "name": "Dutchies",
+        "wins": 2,
+        "losses": 4,
+        "lifeforce": 5133177
+    },
+    {
+        "name": "Magius",
+        "wins": 3,
+        "losses": 3,
+        "lifeforce": 5095942
+    },
+    {
+        "name": "Oblivion",
+        "wins": 3,
+        "losses": 3,
+        "lifeforce": 4867669
+    },
+    {
+        "name": "TheUnion",
+        "wins": 3,
+        "losses": 3,
+        "lifeforce": 4804022
+    },
+    {
+        "name": "Ishgar",
+        "wins": 3,
+        "losses": 3,
+        "lifeforce": 4663917
+    },
+    {
+        "name": "Belial",
+        "wins": 2,
+        "losses": 4,
+        "lifeforce": 4518414
+    },
+    {
+        "name": "ＣＹＧＮＵＳ",
+        "wins": 3,
+        "losses": 3,
+        "lifeforce": 4303809
+    },
+    {
+        "name": "Eggies",
+        "wins": 3,
+        "losses": 3,
+        "lifeforce": 4129975
+    },
+    {
+        "name": "Artifact",
+        "wins": 2,
+        "losses": 4,
+        "lifeforce": 3904933
+    },
+    {
+        "name": "Dæmon",
+        "wins": 2,
+        "losses": 4,
+        "lifeforce": 3815750
+    },
+    {
+        "name": "Bakemono",
+        "wins": 2,
+        "losses": 4,
+        "lifeforce": 3692318
+    },
+    {
+        "name": "Seraphim",
+        "wins": 2,
+        "losses": 4,
+        "lifeforce": 3102814
+    },
+    {
+        "name": "Derira",
+        "wins": 2,
+        "losses": 4,
+        "lifeforce": 3049708
+    },
+    {
+        "name": "Kamelot",
+        "wins": 2,
+        "losses": 4,
+        "lifeforce": 2920198
+    },
+    {
+        "name": "Reapers",
+        "wins": 2,
+        "losses": 4,
+        "lifeforce": 2897344
+    },
+    {
+        "name": "Weeblet",
+        "wins": 1,
+        "losses": 5,
+        "lifeforce": 2893434
+    },
+    {
+        "name": "Chaldea",
+        "wins": 2,
+        "losses": 4,
+        "lifeforce": 2733272
+    },
+    {
+        "name": "YoRHa",
+        "wins": 2,
+        "losses": 4,
+        "lifeforce": 2591934
+    },
+    {
+        "name": "Typhoon",
+        "wins": 2,
+        "losses": 4,
+        "lifeforce": 2147107
+    },
+    {
+        "name": "Index",
+        "wins": 2,
+        "losses": 4,
+        "lifeforce": 1710178
+    },
+    {
+        "name": "Divinus",
+        "wins": 1,
+        "losses": 5,
+        "lifeforce": 1408474
+    },
+    {
+        "name": "Synapse",
+        "wins": 1,
+        "losses": 5,
+        "lifeforce": 826511
+    },
+    {
+        "name": "Remnants",
+        "wins": 1,
+        "losses": 5,
+        "lifeforce": 800967
+    },
+    {
+        "name": "Legion",
+        "wins": 0,
+        "losses": 6,
+        "lifeforce": 196566
+    }
+]
