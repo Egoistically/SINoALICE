@@ -1,7 +1,7 @@
 # Purification API
 Requirements:
 * AES key for packet encryption and decryption, find it with Frida or IDA.
-* User ID and private RSA key, both can be found in `gl-payment_gamelib.xml`, inside the game folder.
+* User ID, private RSA key and payment UUID, all can be found in `gl-payment_gamelib.xml`, inside the game folder.
 * Session ID, you can find it by intercepting game traffic.
 
 Replace `config.py`'s parameters with these.  
