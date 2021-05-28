@@ -165,7 +165,7 @@ class QuestSystemScheduleInfo():
         self.userActRes = userActRes([], [])
         self.startArtData = startArtData([], [])
         self.startLethalArtData = startLethalArtData([], [])
-        self.serialize_list()
+        self.deserialize_list()
 
     def read(self) -> int:
         c = self._list[self._index]
@@ -178,7 +178,7 @@ class QuestSystemScheduleInfo():
     def get_args(self, _class: type):
         return [self.read() for _ in range(len(signature(_class).parameters))]
 
-    def serialize_historyInfluence(self) -> None:
+    def deserialize_historyInfluence(self) -> None:
         if self.check():
             self.historyInfluenceData.questHistoryId = self.read()
 
@@ -203,7 +203,7 @@ class QuestSystemScheduleInfo():
                 if self.check():
                     self.historyInfluenceData.art.append(art(*self.get_args(art)))
 
-    def serialize_userActRes(self) -> None:
+    def deserialize_userActRes(self) -> None:
         if self.check():
             for _ in range(self.read()):
                 if self.check():
@@ -213,7 +213,7 @@ class QuestSystemScheduleInfo():
                 if self.check():
                     self.userActRes.modeChangeMember.append(modeChangeMember(*self.get_args(modeChangeMember)))
 
-    def serialize_startArtData(self) -> None:
+    def deserialize_startArtData(self) -> None:
         if self.check():
             for _ in range(self.read()):
                 if self.check():
@@ -223,7 +223,7 @@ class QuestSystemScheduleInfo():
                 if self.check():
                     self.startArtData.modeChangeMember.append(modeChangeMember(*self.get_args(modeChangeMember)))
 
-    def serialize_startLethalArtData(self) -> None:
+    def deserialize_startLethalArtData(self) -> None:
         if self.check():
             for _ in range(self.read()):
                 if self.check():
@@ -233,9 +233,9 @@ class QuestSystemScheduleInfo():
                 if self.check():
                     self.startArtData.modeChangeMember.append(modeChangeMember(*self.get_args(modeChangeMember)))
 
-    def serialize_list(self) -> None:
+    def deserialize_list(self) -> None:
         if self.check():
-            self.serialize_historyInfluence()
-            self.serialize_userActRes()
-            self.serialize_startArtData()
-            self.serialize_startLethalArtData()
+            self.deserialize_historyInfluence()
+            self.deserialize_userActRes()
+            self.deserialize_startArtData()
+            self.deserialize_startLethalArtData()
