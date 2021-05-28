@@ -160,7 +160,7 @@ class QuestSystemScheduleInfo():
 
     def __init__(self, _list: list) -> None:
         self._list = _list
-        self._index = 0
+        self._index = iter(_list)
         self.historyInfluenceData = historyInfluenceData(0, 0, 0, [], [], 0, [])
         self.userActRes = userActRes([], [])
         self.startArtData = startArtData([], [])
@@ -168,9 +168,7 @@ class QuestSystemScheduleInfo():
         self.deserialize_list()
 
     def read(self) -> int:
-        c = self._list[self._index]
-        self._index += 1
-        return c
+        return next(self._index)
 
     def check(self) -> bool:
         return self.read()
