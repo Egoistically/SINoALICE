@@ -17,13 +17,7 @@ with open(filename, 'rb') as f:
 
 for signature in signatures:
     s_data = signatures[signature]
-    pattern = b''
-
-    for x in s_data[0].replace('??', '.').split(' '):
-        if x != '.':
-            pattern += bytes.fromhex(x)
-        else:
-            pattern += b'.'
+    pattern = b''.join(bytes.fromhex(x) if x != '??' else b'.' for x in s_data[0].split(' '))
 
     matches = re.search(pattern, file)
     offset = matches.start() + s_data[1]
