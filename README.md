@@ -1,3 +1,2 @@
 # SINoALICE Stuff
-Shitty stuff I code **for fun**. May be useful to someone.  
-Discord: shirome#0001.
+A bunch of random projects related to SINoALICE. Not the tidiest repo.
